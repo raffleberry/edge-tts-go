@@ -5,7 +5,7 @@
 
 ## Installation
 
-Requires Go 1.24+.
+Requires Go 1.20+.
 
 ```sh
 go install github.com/raffleberry/edge-tts-go/cmd/edge-tts@latest
